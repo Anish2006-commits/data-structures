@@ -1,5 +1,1 @@
-#include<stdio.h>
-int main() {
-printf("Virat Kohli is the chasemaster");
-return 0;
-}
+VIRAT KOHLI IS THE GREATEST PLAYER OF THIS GENERATION
